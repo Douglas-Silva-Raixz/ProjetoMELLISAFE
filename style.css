@@ -8,15 +8,16 @@ body{
     background-color: var(--cor-fundo);
 }
 .titulo{
-    color: var(--cor-titulo);
-    text-align: center;
+   
     font-size: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subtitulo{
+    font-size: 25px;
 }
 .topo{
     color: var(--cor-titulo);
     text-align: center;
-    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto{
     background-color: rgb(255, 255, 255);
