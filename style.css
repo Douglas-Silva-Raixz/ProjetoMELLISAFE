@@ -1,3 +1,12 @@
+:root{
+   --cor-fundo: rgb(255, 249, 162);
+   --cor-titulo: rgb(196, 118, 1);
+}
+
+
 body{
-    background-color: rgb(255, 253, 158);
+    background-color: var(--cor-fundo)
+}
+.titulo{
+    color: var(--cor-titulo)
 }
